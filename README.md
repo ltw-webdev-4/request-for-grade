@@ -2,7 +2,6 @@
 summary: 'Write up the reasons why your pattern library is a good representation of an eCommerce website and what grade you deserve.'
 time: '20 minutes'
 deliverables: '3–5 sentences'
-submit: 'https://algonquin.instructure.com/courses/658177/assignments/5530631'
 ---
 
 # Request for grade

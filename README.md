@@ -49,7 +49,7 @@ Below is the rubric of expectations for this project. **You will be assigned a p
 
 Submit this as an Issue on your `ecommerce-pattern-library` repository.
 
-1. Create a new issue named “Final grade”.
+1. Create a new issue named “Final grade”. And “Pin” the issue: there’s a button near the bottom of the Issue’s screen’s righthand column.
 2. In the description write your rationale.
 3. Add entries for each rubric requirement, assign a point value, and describe why you deserve the grade for that rubric requirement.
 

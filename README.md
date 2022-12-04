@@ -64,11 +64,11 @@ Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla conse
 
 ---
 
-*Style & design* — **2**
+*Style & design* — **2**
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-*Patterns* — **3**
+*Patterns* — **3**
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
@@ -76,5 +76,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 ---
 
-18/24 — **75%**
+18/24 — **75%**
 ```
